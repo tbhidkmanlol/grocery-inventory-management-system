@@ -1,0 +1,4 @@
+1|Kfc|Chicken|12.20|Fanta|1.20
+2|MCD|MacChicken|12.50|Chicken Nugget|2.00
+3|JollieBee|Pasta|12.20|Pepsi|3.20
+4|BurgurKing|Burgur Cheese|12|Salad|10

@@ -1,0 +1,13 @@
+0001,Bananas,Fruits,100,0.30,2024-09-15
+0002,Bread,Bakery,30,2.00,2024-08-31
+0003,Dogables,Dog Food,12,55.00,2030-10-01
+0004,Eggs,Dairy,200,0.10,2024-09-20
+0005,Chicken Breast,Meat,50,5.00,2024-09-10
+0006,Orange Juice,Beverages,40,3.00,2024-09-15
+0007,Rice,Grains,100,1.20,2025-01-01
+0008,PineApple,Fruit,10,1.50,2024-09-16
+0009,Apple,Fruit,12,3.00,2024-09-16
+0010,Mango,Fruit,12,3.50,2024-09-16
+0011,Catables,Cat Food,12,30.00,2030-10-10
+0012,Dogables,Dog Food,12,55.00,2030-10-01
+0013,Feastables,Chocolate,12,100.0,2025-10-10

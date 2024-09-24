@@ -1,0 +1,9 @@
+0001,Acme Supplies,John Doe,012-3456789,123 Elm St Springfield
+0002,Beta Corp,Jane Smith,018-9273645,456 Oak St Greenville
+0003,Global Traders,Jim Brown,017-4839201,789 Pine St Capital City
+0004,Delta Enterprises,Emily Johnson,013-5687492,321 Maple St Smalltown
+0005,Epsilon Ltd,Mike Davis,019-7418526,654 Cedar St Bigtown
+0006,Zeta Solutions,Lisa Wilson,014-2938475,987 Birch St Lakeside
+0007,Omega Industries,Tom White,016-3748291,135 Spruce St Hometown
+0008,Alpha LLC,Kate Miller,015-6483927,246 Willow St Midville
+0009,NuTech,Paul Adams,011-7564839,357 Aspen St New City
