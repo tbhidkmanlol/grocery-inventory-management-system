@@ -1,2 +1,0 @@
-ORD1243|2024-09-21|Pending|BurgurKing|Salad|12|10.00|120.00
-ORD1244|2024-09-21|Pending|Kfc|Chicken|3|12.20|36.60
